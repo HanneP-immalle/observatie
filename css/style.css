@@ -55,3 +55,9 @@ p {
 footer.page-footer {
   margin: 0;
 }
+nav{
+  background-color: #444;
+}
+nav ul a{
+  color: white;
+}
