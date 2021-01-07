@@ -61,3 +61,9 @@ nav{
 nav ul a{
   color: white;
 }
+aside{
+  float: right;
+}
+section{
+  padding: 40px;
+}
